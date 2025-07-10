@@ -1,0 +1,8 @@
+# Project Context
+This project builds a Kerr County meeting minutes AI app.
+See kerr_county_app_spec.md for full requirements and architecture.
+
+# Key Integration Points
+- MCP server for Claude integration
+- FAISS for semantic search
+- OpenAI API for summarization
