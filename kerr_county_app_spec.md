@@ -81,6 +81,10 @@ track_infrastructure_decisions()
 - **No AI processing** - Just file access
 - **Test**: Verify Claude can list and read files through MCP
 
+### Phase 1.1: Add support for PDF
+**Goal**: Support for PDF
+- **File system**: Add support to the file system for pdf
+
 ### Phase 2: Basic Search + Testing (Week 2)
 **Goal**: Add simple search and validate Claude integration
 - **Simple search**: Basic string matching across files

@@ -10,6 +10,10 @@
 - [ ] Minimal MCP server with `list_files()` and `read_file(filename)`
 - [ ] Test Claude can list and read files through MCP
 
+## Phase 1.1: Support PDF
+- [ ] Add support for PDF to file reader
+- [ ] Test with Claude
+
 ## Phase 2: Basic Search + Testing (Week 2)
 - [ ] Implement basic string search across files
 - [ ] Add MCP functions: `search_text(query)`, `get_file_metadata(filename)`
