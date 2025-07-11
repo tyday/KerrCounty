@@ -1,5 +1,4 @@
 requests
 beautifulsoup4
 urllib3
-fastapi
-uvicorn 
+fastmcp 
